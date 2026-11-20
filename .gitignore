@@ -1,0 +1,4 @@
+.env
+watch.log
+zips.json
+node_modules/
